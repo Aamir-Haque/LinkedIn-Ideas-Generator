@@ -31,4 +31,7 @@ The tool uses the **Gemini API** for generating content, ensuring responses are 
 
 ---
 
+#### **Demo**
+[Watch the Demo Video](https://drive.google.com/file/d/1xL9Hmg7lwJupnkPSF4fa3MEs1vD5Dko0/view?usp=sharing)
+
 This tool is perfect for anyone aiming to enhance their LinkedIn presence with minimal effort while ensuring high-quality and impactful content.
